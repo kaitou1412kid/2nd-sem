@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="first class" Database="" Version="10000">
+  <Project Name="first_class" Path="first_class/first_class.project" Active="No"/>
+  <Project Name="second_class" Path="second_class/second_class.project" Active="No"/>
+  <Project Name="Third_class" Path="Third_class/Third_class.project" Active="No"/>
+  <Project Name="fourth_class" Path="fourth_class/fourth_class.project" Active="No"/>
+  <Project Name="fifth_class" Path="fifth_class/fifth_class.project" Active="No"/>
+  <Project Name="sixth_class" Path="sixth_class/sixth_class.project" Active="Yes"/>
+  <Project Name="class_pointer" Path="class_pointer/class_pointer.project" Active="No"/>
+  <Project Name="OOP_Class1" Path="OOP_Class1/OOP_Class1.project" Active="No"/>
+  <Project Name="OOP_Class2" Path="OOP_Class2/OOP_Class2.project" Active="No"/>
+  <Project Name="OOP_inheritance" Path="OOP_inheritance/OOP_inheritance.project" Active="No"/>
+  <Project Name="OOP_inheritance_public_private" Path="OOP_inheritance_public_private/OOP_inheritance_public_private.project" Active="No"/>
+  <Project Name="virtual_keyword" Path="virtual_keyword/virtual_keyword.project" Active="No"/>
+  <Project Name="aggreation_problem" Path="aggreation_problem/aggreation_problem.project" Active="No"/>
+  <Project Name="operator_overloading" Path="operator_overloading/operator_overloading.project" Active="No"/>
+  <Project Name="problem_solving" Path="problem_solving/problem_solving.project" Active="No"/>
+  <Project Name="problem_2" Path="problem_2/problem_2.project" Active="No"/>
+  <Project Name="primitive_to_userDefinedDataTypes" Path="primitive_to_userDefinedDataTypes/primitive_to_userDefinedDataTypes.project" Active="No"/>
+  <Project Name="concat_sstring" Path="concat_sstring/concat_sstring.project" Active="No"/>
+  <Project Name="kushal_problem" Path="kushal_problem/kushal_problem.project" Active="No"/>
+  <Project Name="Aggregation_concept" Path="Smallest_Common_Multiple/Smallest_Common_Multiple.project" Active="No"/>
+  <Project Name="member_function_accessed_by_pointers" Path="member_function_accessed_by_pointers/member_function_accessed_by_pointers.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="first_class" ConfigName="Debug"/>
+      <Project Name="second_class" ConfigName="Debug"/>
+      <Project Name="Third_class" ConfigName="Debug"/>
+      <Project Name="fourth_class" ConfigName="Debug"/>
+      <Project Name="fifth_class" ConfigName="Debug"/>
+      <Project Name="sixth_class" ConfigName="Debug"/>
+      <Project Name="class_pointer" ConfigName="Debug"/>
+      <Project Name="OOP_Class1" ConfigName="Debug"/>
+      <Project Name="OOP_Class2" ConfigName="Debug"/>
+      <Project Name="OOP_inheritance" ConfigName="Debug"/>
+      <Project Name="OOP_inheritance_public_private" ConfigName="Debug"/>
+      <Project Name="virtual_keyword" ConfigName="Debug"/>
+      <Project Name="aggreation_problem" ConfigName="Debug"/>
+      <Project Name="operator_overloading" ConfigName="Debug"/>
+      <Project Name="problem_solving" ConfigName="Debug"/>
+      <Project Name="problem_2" ConfigName="Debug"/>
+      <Project Name="primitive_to_userDefinedDataTypes" ConfigName="Debug"/>
+      <Project Name="concat_sstring" ConfigName="Debug"/>
+      <Project Name="kushal_problem" ConfigName="Debug"/>
+      <Project Name="Aggregation_concept" ConfigName="Debug"/>
+      <Project Name="member_function_accessed_by_pointers" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="first_class" ConfigName="Release"/>
+      <Project Name="second_class" ConfigName="Release"/>
+      <Project Name="Third_class" ConfigName="Release"/>
+      <Project Name="fourth_class" ConfigName="Release"/>
+      <Project Name="fifth_class" ConfigName="Release"/>
+      <Project Name="sixth_class" ConfigName="Release"/>
+      <Project Name="class_pointer" ConfigName="Release"/>
+      <Project Name="OOP_Class1" ConfigName="Release"/>
+      <Project Name="OOP_Class2" ConfigName="Release"/>
+      <Project Name="OOP_inheritance" ConfigName="Release"/>
+      <Project Name="OOP_inheritance_public_private" ConfigName="Release"/>
+      <Project Name="virtual_keyword" ConfigName="Release"/>
+      <Project Name="aggreation_problem" ConfigName="Release"/>
+      <Project Name="operator_overloading" ConfigName="Release"/>
+      <Project Name="problem_solving" ConfigName="Release"/>
+      <Project Name="problem_2" ConfigName="Release"/>
+      <Project Name="primitive_to_userDefinedDataTypes" ConfigName="Release"/>
+      <Project Name="concat_sstring" ConfigName="Release"/>
+      <Project Name="kushal_problem" ConfigName="Release"/>
+      <Project Name="Aggregation_concept" ConfigName="Release"/>
+      <Project Name="member_function_accessed_by_pointers" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
